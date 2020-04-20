@@ -1,5 +1,6 @@
 ## REST Countries API with color theme switcher
 Integrate with the [REST Countries API](https://restcountries.eu) to pull country data and display it.
+Using React JS and Axios for fetch data.
 
 
 ## Project Specifications
