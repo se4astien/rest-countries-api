@@ -11,6 +11,7 @@ Integrate with the [REST Countries API](https://restcountries.eu) to pull countr
 - Toggle the color scheme between light and dark mode
 
 ## Screenshot
-<img src="https://github.com/se4astien/rest-countries-api-react/blob/master/screenshots/rest-countries-api.png" width="50%" />
+<img src="https://github.com/se4astien/rest-countries-api-react/blob/master/screenshots/rest-countries-api.png" width="100%" />
 
 ## Online
+https://rest-countries-api-react.netlify.app/
